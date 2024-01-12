@@ -10,7 +10,7 @@ Body {
     background: #E3D1CD;
     color:#000000;
 }
-/* <!-- Navbar--> */
+/* Navbar */
 .Header {
     position: fixed;
     top: 0;
@@ -44,9 +44,11 @@ Body {
 .navbar a:hover {
     color: #7E3D3D;
 }
-/* <!-- End of  Navbar--> */
+/*  End of  Navbar */
 
-/* <!-- Home page content--> */
+
+
+/*  Home page content */
   
 .Home {
     height: 100vh;
@@ -60,5 +62,36 @@ Body {
     font-weight: 500;
 }
 
+#landing-page h3 {
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 5px;
+    margin: 15px 0 20px;
+}
 
-/* <!-- End of Home page content--> */
+#landing-page p {
+    font-size: 20px;
+    margin: 15px 0 30px;
+    
+}
+/* End of Home page content */
+
+
+
+/* About me Content*/
+
+
+/* End of About me Content*/
+
+
+
+/* Portfolio Content */
+
+/* End of Portfolio Content*/
+
+
+
+
+/*Contact me Content*/
+
+/*End of Contact me Content*/
