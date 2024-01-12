@@ -71,6 +71,7 @@ Body {
 
 #landing-page p {
     font-size: 20px;
+    font-weight: 100;
     margin: 15px 0 30px;
     
 }
@@ -80,9 +81,24 @@ Body {
 
 /* About me Content*/
  .About {
+    height: 100vh;
     display: flex;
-    margin-left:auto
+    align-items: center;
+    padding: 0 10%;
+ }
 
+ #about-content h1 {
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 5px;
+    margin: 15px 0 20px;
+ }
+
+ #about-content p {
+    font-size: 22px;
+    font-weight: 100;
+    margin: 15px 0 30px;
+    
  }
 
 
