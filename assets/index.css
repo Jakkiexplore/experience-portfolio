@@ -75,6 +75,7 @@ Body {
     margin: 15px 0 30px;
     
 }
+
 /* End of Home page content */
 
 
@@ -101,12 +102,30 @@ Body {
     
  }
 
-
 /* End of About me Content*/
 
 
 
 /* Portfolio Content */
+.portfolio {
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+
+}
+
+#portfolio-content h2 {
+    font-size: 22px;
+    font-weight: 100;
+    margin: 15px 0 30px;
+
+}
+#portfolio-content h1 {
+    font-size: 55px;
+    letter-spacing: 1px;
+    margin: 100px;
+    height: 50vh;
+}
 
 /* End of Portfolio Content*/
 
@@ -114,5 +133,23 @@ Body {
 
 
 /*Contact me Content*/
+ .contact {
+    display: flex;
+    align-items: center;
+    padding:  0 10%;
+    
+ }
+
+ #contact-content {
+    height:20vh;
+    font-size: 22px;
+    font-weight: 10;
+    margin: 15px 0 30px;
+
+ }
+ #contact-content ol {
+
+    
+ }
 
 /*End of Contact me Content*/
