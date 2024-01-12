@@ -79,6 +79,11 @@ Body {
 
 
 /* About me Content*/
+ .About {
+    display: flex;
+    margin-left:auto
+
+ }
 
 
 /* End of About me Content*/
